@@ -1,0 +1,42 @@
+[versions]
+agp = "8.6.0-alpha07"
+expansion = "1.0.1"
+jetbrainsTessTwo = "9.0.0"
+junit = "4.13.2"
+junitVersion = "1.2.1"
+espressoCore = "3.6.1"
+appcompat = "1.7.0"
+material = "1.12.0"
+constraintlayout = "2.1.4"
+lifecycleLivedataKtx = "2.8.6"
+lifecycleViewmodelKtx = "2.8.6"
+navigationFragment = "2.8.3"
+navigationUi = "2.8.3"
+netTess4j = "4.5.5"
+tess4j = "4.5.5"
+tesseractAndroidTools = "5.0.0"
+tessTwo = "9.1.0"
+tessTwoVersion = "9.0.0"
+
+[libraries]
+expansion = { module = "com.google.android.vending:expansion", version.ref = "expansion" }
+jetbrains-tess-two = { module = "org.jetbrains.tess-two:tess-two", version.ref = "jetbrainsTessTwo" }
+junit = { group = "junit", name = "junit", version.ref = "junit" }
+ext-junit = { group = "androidx.test.ext", name = "junit", version.ref = "junitVersion" }
+espresso-core = { group = "androidx.test.espresso", name = "espresso-core", version.ref = "espressoCore" }
+appcompat = { group = "androidx.appcompat", name = "appcompat", version.ref = "appcompat" }
+material = { group = "com.google.android.material", name = "material", version.ref = "material" }
+constraintlayout = { group = "androidx.constraintlayout", name = "constraintlayout", version.ref = "constraintlayout" }
+lifecycle-livedata-ktx = { group = "androidx.lifecycle", name = "lifecycle-livedata-ktx", version.ref = "lifecycleLivedataKtx" }
+lifecycle-viewmodel-ktx = { group = "androidx.lifecycle", name = "lifecycle-viewmodel-ktx", version.ref = "lifecycleViewmodelKtx" }
+navigation-fragment = { group = "androidx.navigation", name = "navigation-fragment", version.ref = "navigationFragment" }
+navigation-ui = { group = "androidx.navigation", name = "navigation-ui", version.ref = "navigationUi" }
+net-tess4j = { module = "net.sourceforge.tess4j:tess4j", version.ref = "netTess4j" }
+tess-two = { module = "com.googlecode.tesseract.android:tess-two", version.ref = "tessTwo" }
+tess-two-v900 = { module = "com.googlecode.tesseract.android:tess-two", version.ref = "tessTwoVersion" }
+tess4j = { module = "com.github.tesseract-ocr:tess4j", version.ref = "tess4j" }
+tesseract-android-tools = { module = "com.googlecode.tesseract-android-tools:tesseract-android-tools", version.ref = "tesseractAndroidTools" }
+
+[plugins]
+android-application = { id = "com.android.application", version.ref = "agp" }
+

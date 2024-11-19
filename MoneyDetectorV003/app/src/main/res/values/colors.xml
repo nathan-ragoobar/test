@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#001F3F</color> <!-- Navy Blue -->
+    <color name="colorPrimaryVariant">#001B33</color> <!-- Darker Navy Blue -->
+    <color name="colorSecondary">#0074D9</color> <!-- Bright Blue -->
+    <color name="colorSecondaryVariant">#005BB5</color> <!-- Darker Bright Blue -->
+    <color name="colorBackground">#F0F8FF</color> <!-- Alice Blue -->
+    <color name="colorSurface">#FFFFFF</color> <!-- White -->
+    <color name="colorError">#FF4136</color> <!-- Red -->
+    <color name="colorOnPrimary">#FFFFFF</color> <!-- White -->
+    <color name="colorOnSecondary">#FFFFFF</color> <!-- White -->
+    <color name="colorOnBackground">#000000</color> <!-- Black -->
+    <color name="colorOnSurface">#000000</color> <!-- Black -->
+    <color name="colorOnError">#FFFFFF</color> <!-- White -->
+    <color name="buttonColor">#001F3F</color> <!-- Navy Blue -->
+    <color name="colorAccent">#ADD8E6</color> <!-- Light Blue -->
+    <color name="purple_200">#BB86FC</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="black">#000000</color>
+    <color name="teal_200">#03DAC5</color>
+</resources>

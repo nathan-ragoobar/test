@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MoneyDetectorV003</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="open_camera">Open Camera</string>
+    <string name="todo">TODO</string>
+    <string name="button">Button</string>
+    <string name="button2">Button2</string>
+</resources>

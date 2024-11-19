@@ -1,0 +1,20 @@
+# Ignore the GPT-2 model checkpoint file
+
+
+# Or if it's in a specific directory
+# checkpoints/gpt2_124M.bin
+
+# Other common ignores
+*.log
+*.tmp
+*.swp
+*.bak
+*.pyc
+*.bin
+*.apk
+__pycache__/
+build/
+dist/
+ServerV003/opencv/
+MoneyDetectorV003/openCV/
+

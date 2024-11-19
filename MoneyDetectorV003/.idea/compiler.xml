@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="23">
+      <module name="MoneyDetectorV0.0.3.app" target="21" />
+      <module name="MoneyDetectorV0.0.3.openCV" target="21" />
+      <module name="My_Application2.app" target="21" />
+      <module name="My_Application2.openCV" target="21" />
+      <module name="myapplication2.app" target="21" />
+      <module name="myapplication2.openCV" target="21" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
